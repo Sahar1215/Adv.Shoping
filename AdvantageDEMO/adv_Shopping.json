@@ -1,0 +1,26 @@
+{
+  "ReportPath": "C:\\Users\\salturki\\Desktop\\Parallel result",
+  "ReportName": "adv.Shopping",
+  "ParallelRuns": [
+    {
+      "TestRunName": "1",
+      "Test": "C:\\Users\\salturki\\Desktop\\UFT one\\WebTutorial\\AdvantageDEMO",
+      "Env": {
+        "Web": {
+          "Browser": "Chrome"
+        }
+      },
+      "ReportSuffix": "chrome"
+    },
+    {
+      "TestRunName": "2",
+      "Test": "C:\\Users\\salturki\\Desktop\\UFT one\\WebTutorial\\AdvantageDEMO",
+      "Env": {
+        "Web": {
+          "Browser": "IE"
+        }
+      },
+      "ReportSuffix": "IE"
+    }
+  ]
+}
